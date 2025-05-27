@@ -74,16 +74,11 @@ Bar chart comparing R² scores of all models:
 ## 📁 Project Structure
 Fuel-Consumption-Prediction/
 ├── fuel_consumption_prediction.ipynb
-
-├── Fuel_Consumption_2000-2022.csv
-
-├── README.md
-
-├── requirements.txt
-
-└── images/
-
-└── model_comparison.png
+  ├── Fuel_Consumption_2000-2022.csv
+    ├── README.md
+      ├── requirements.txt
+        └── images/
+        └── model_comparison.png
 
 ---
 

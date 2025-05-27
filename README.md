@@ -72,4 +72,43 @@ Bar chart comparing R² scores of all models:
 ---
 
 ## 📁 Project Structure
+Fuel-Consumption-Prediction/
+├── fuel_consumption_prediction.ipynb
+├── Fuel_Consumption_2000-2022.csv
+├── README.md
+├── requirements.txt
+└── images/
+└── model_comparison.png
 
+---
+
+## 🧪 How to Run
+
+1. Clone this repository
+2. Install dependencies:
+3. Run the notebook or Python script:
+
+---
+
+## 🔧 Requirements
+
+```text
+pandas
+matplotlib
+scikit-learn
+
+You can generate requirements.txt by running:
+pip freeze > requirements.txt
+
+👨‍💻 Author
+Tiyyaguara Naga Pavan Reddy
+
+🌱 Conclusion
+This project highlights the power of machine learning in solving real-world problems. The Random Forest Regressor proved to be the most accurate in predicting fuel consumption. Such tools can aid in developing fuel-efficient vehicles and reducing environmental impact.
+
+---
+
+Let me know if you'd like:
+- A `requirements.txt` generated for you
+- A sample `fuel_consumption_prediction.py` script version
+- Help pushing this to GitHub
